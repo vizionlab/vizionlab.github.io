@@ -1,8 +1,8 @@
 remote_theme: jeromelachaud/grayscale-theme
 
 title: VIZION
-description: Advanced computer vision services
-name: Nikolaos Zioulis P.C.
+description: Freelancer computer vision services
+# name: Nikolaos Zioulis P.C.
 email: vizion.smpc@gmail.com
 url: https://vizionlab.github.io
 
@@ -12,7 +12,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: VIZION Single Member P.C.
+footer: VIZION Single Member P.C., Straitsa 2, Thessaloniki, Greece
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
