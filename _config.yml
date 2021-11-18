@@ -3,3 +3,5 @@ title: VIZION
 description: Advanced computer vision services
 name: Nikolaos Zioulis P.C.
 markdown: kramdown
+
+theme: jekyll-theme-hacker
